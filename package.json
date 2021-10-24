@@ -1,0 +1,28 @@
+{
+  "name": "ude-project",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KillerWS/ude-project.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KillerWS/ude-project/issues"
+  },
+  "homepage": "https://github.com/KillerWS/ude-project#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "mongoose": "^6.0.11",
+    "nodemon": "^2.0.14"
+  },
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "devDependencies": {},
+  "description": ""
+}
